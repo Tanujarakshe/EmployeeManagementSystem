@@ -1,0 +1,18 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Java compiled files
+*.class
+bin/
+target/
+
+# Local environment and secrets
+.env
+.env.*
+secrets.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
